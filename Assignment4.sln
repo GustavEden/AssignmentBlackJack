@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "Assigment4\PresentationLayer.csproj", "{7508B9FE-7978-477A-92D3-013A0176E7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCardLib", "GameCardLib\GameCardLib.csproj", "{558E45A9-041A-4355-92E5-0D7F5ABC6541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7508B9FE-7978-477A-92D3-013A0176E7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7508B9FE-7978-477A-92D3-013A0176E7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7508B9FE-7978-477A-92D3-013A0176E7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7508B9FE-7978-477A-92D3-013A0176E7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558E45A9-041A-4355-92E5-0D7F5ABC6541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558E45A9-041A-4355-92E5-0D7F5ABC6541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558E45A9-041A-4355-92E5-0D7F5ABC6541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558E45A9-041A-4355-92E5-0D7F5ABC6541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4D2770-09A2-48F9-B7C4-8C929E601639}
+	EndGlobalSection
+EndGlobal
